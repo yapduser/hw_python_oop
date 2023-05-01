@@ -1,5 +1,6 @@
 from typing import Type, Union, ClassVar
 from dataclasses import dataclass
+
 import exceptions.errors as err
 
 
